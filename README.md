@@ -1,4 +1,4 @@
-# firstdata-ts-testapp
+# typescript starter template
 a fully filled out backend for typescript on nodeJS express and uses overnightJS to handle routing to the controllers<br>
 (it adds TypeScript decorators to express), it also handles logging when needed
 
